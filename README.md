@@ -110,10 +110,6 @@ for x in data:
 print("=====================================================================================");
 ````
 
-2. Hasil Run
-
-![RUN Nilai mahasiswa](https://user-images.githubusercontent.com/115678171/203456588-8a677656-6a02-4fb5-9501-ecbaf1ee0208.png)
-
 
 ### Penjelasan Program :
 1. Buatlah list berupa Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS.
