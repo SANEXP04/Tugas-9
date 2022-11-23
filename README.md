@@ -23,13 +23,7 @@ Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 - Gabungkan list B dengan list A
 
 #### Langkah-langkah :
-1. Buat programnya terlebih dahulu seperti gambar di bawah ini
 
-![Menginput nilai 5 elemen (1)](https://user-images.githubusercontent.com/115678171/203445766-790ff353-4f39-4e39-b20a-a753e741b92c.png)
-
-![Menginput Nilai 5 elemen(2)](https://user-images.githubusercontent.com/115678171/203445856-14a360f5-14c0-4334-8c99-5ac968b1e9fc.png)
-
-````
 #Latihan List ( Ihsan Hadimulya )
 
 #Membuat sebuah list sebanyak 5 elemen dengan nilai bebas
@@ -69,7 +63,7 @@ print("Menggabung List B dengan A       :",b) #Menggabungkan list B dan A
 
 ````
     
-2. Hasil Run
+• Hasil Run
 
 ![Run Menginput nilai 5 elemen](https://user-images.githubusercontent.com/115678171/203456224-2277b88d-354c-42fb-a459-32ead3fa07a1.png)
 
